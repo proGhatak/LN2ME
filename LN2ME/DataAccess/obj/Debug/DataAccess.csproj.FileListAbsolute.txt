@@ -1,0 +1,5 @@
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\DataAccess\bin\Debug\DataAccess.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\DataAccess\bin\Debug\DataAccess.pdb
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\DataAccess\obj\Debug\DataAccess.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\DataAccess\obj\Debug\DataAccess.pdb

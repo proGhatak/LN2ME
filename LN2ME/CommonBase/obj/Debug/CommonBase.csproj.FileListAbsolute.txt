@@ -1,0 +1,5 @@
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\CommonBase\bin\Debug\CommonBase.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\CommonBase\bin\Debug\CommonBase.pdb
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\CommonBase\obj\Debug\CommonBase.csprojResolveAssemblyReference.cache
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\CommonBase\obj\Debug\CommonBase.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\CommonBase\obj\Debug\CommonBase.pdb

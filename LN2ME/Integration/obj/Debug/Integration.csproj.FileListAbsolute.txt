@@ -1,0 +1,5 @@
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\Integration\bin\Debug\Integration.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\Integration\bin\Debug\Integration.pdb
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\Integration\obj\Debug\Integration.csprojResolveAssemblyReference.cache
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\Integration\obj\Debug\Integration.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\Integration\obj\Debug\Integration.pdb
