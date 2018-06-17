@@ -63,3 +63,7 @@ C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME.Tests\bin\Deb
 C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME.Tests\obj\Debug\LN2ME.Tests.csprojResolveAssemblyReference.cache
 C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME.Tests\obj\Debug\LN2ME.Tests.dll
 C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME.Tests\obj\Debug\LN2ME.Tests.pdb
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME.Tests\bin\Debug\CommonBase.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME.Tests\bin\Debug\BusinessLogic.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME.Tests\bin\Debug\CommonBase.pdb
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME.Tests\bin\Debug\BusinessLogic.pdb

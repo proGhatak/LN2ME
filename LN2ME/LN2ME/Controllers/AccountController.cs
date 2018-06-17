@@ -16,12 +16,13 @@ using Microsoft.Owin.Security.OAuth;
 using LN2ME.Models;
 using LN2ME.Providers;
 using LN2ME.Results;
+using CommonBase.Base;
 
 namespace LN2ME.Controllers
 {
     [Authorize]
     [RoutePrefix("api/Account")]
-    public class AccountController : ApiController
+    public class AccountController : BaseAPIController
     {
         private const string LocalLoginProvider = "Local";
         private ApplicationUserManager _userManager;

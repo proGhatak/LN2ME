@@ -41,10 +41,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceContracts\Base\BaseServiceContract.cs" />
+    <Compile Include="ServiceContracts\CRUD\Resume.cs" />
+    <Compile Include="ServiceContracts\Interface\IBaseServiceContract.cs" />
+    <Compile Include="ServiceContracts\Interface\IResume.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="ServiceContracts\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

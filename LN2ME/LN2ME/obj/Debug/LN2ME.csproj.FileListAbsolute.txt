@@ -88,3 +88,11 @@ C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\bin\System.We
 C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\obj\Debug\LN2ME.csprojResolveAssemblyReference.cache
 C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\obj\Debug\LN2ME.dll
 C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\obj\Debug\LN2ME.pdb
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\bin\BusinessLogic.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\bin\CommonBase.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\bin\DataAccess.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\bin\Integration.dll
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\bin\BusinessLogic.pdb
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\bin\CommonBase.pdb
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\bin\DataAccess.pdb
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\LN2ME\bin\Integration.pdb

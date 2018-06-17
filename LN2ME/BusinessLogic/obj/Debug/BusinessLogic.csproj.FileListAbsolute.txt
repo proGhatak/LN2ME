@@ -2,3 +2,4 @@ C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\BusinessLogic\bin\D
 C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\BusinessLogic\bin\Debug\BusinessLogic.pdb
 C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\2-Anirban Personal Docs\8.Projects\Repository\LN2ME\LN2ME\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
